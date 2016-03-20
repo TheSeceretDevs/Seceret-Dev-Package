@@ -1,0 +1,14 @@
+{
+  "memories" : {
+    "owen" : {
+      "IS" : ["friend"]
+    },
+    "fengchi" : {
+      "IS" : ["dumb"],
+      "HAS" : ["no brain"]
+    },
+    "calder" : {
+      "IS" : ["cool"]
+    }
+  }
+}
