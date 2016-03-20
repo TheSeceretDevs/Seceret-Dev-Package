@@ -1,7 +1,8 @@
 {
   "memories" : {
     "owen" : {
-      "IS" : ["friend","nice"]
+      "IS" : ["friend","nice"],
+      "PLAYS": ["life"]
     },
     "fengchi" : {
       "IS" : ["dumb"],
